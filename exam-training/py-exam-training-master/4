@@ -1,0 +1,13 @@
+def minimals(l):
+    minimal_element = l[1]
+    for item in l:
+        if minimal_element > item:
+            minimal_element = item
+    temp_list = []
+    for item in l:
+        if item == minimal_element:
+            temp_list.append(item)
+    print(temp_list)
+
+
+minimals([1, 2, 3, 3, 3, 1, 3, 4, 5])

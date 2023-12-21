@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/exam-training/py-exam-training-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_1/py_lecture_1-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_10/py_lecture_10-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_10_1/py_lecture_10_1-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_11/py_lecture_11-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_12/py_lecture_12-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_2/py_lecture_2-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_3/py_lecture_3-master/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_6/py_lecture_6-master/dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/mid_exam_training" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
